@@ -4,7 +4,9 @@
   "description": "Base repo to transform json design tokens from the figma design token plugin via amazon style directory.",
   "main": "index.js",
   "dependencies": {
-    "style-dictionary": "^3"
+    "style-dictionary": "^3",
+    "@ctrl/tinycolor": "^3.4.0",
+    "tinycolor": "^0.0.1"
   },
   "devDependencies": {
     "@types/jest": "^27.0.3",
