@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <!-- 
+        primary : on-primary
+        
+        Regular text:
+        Level AA - ✅ Pass
+        Level AAA - ❌ Fail
+        
+        Large text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Icons:
+        Level AA - ✅ Pass 
+    -->
+    <color name="m_3_sys_light_primary">#ff6750a4</color>
+    <color name="m_3_sys_light_on_primary">#ffffffff</color>
+    <!-- 
+        primary-container : on-primary-container
+        
+        Regular text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Large text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Icons:
+        Level AA - ✅ Pass 
+    -->
+    <color name="m_3_sys_light_primary_container">#ffeaddff</color>
+    <color name="m_3_sys_light_on_primary_container">#ff21005d</color>
+    <!-- 
+        secondary : on-secondary
+        
+        Regular text:
+        Level AA - ✅ Pass
+        Level AAA - ❌ Fail
+        
+        Large text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Icons:
+        Level AA - ✅ Pass 
+    -->
+    <color name="m_3_sys_light_secondary">#ff625b71</color>
+    <color name="m_3_sys_light_on_secondary">#ffffffff</color>
+    <!-- 
+        secondary-container : on-secondary-container
+        
+        Regular text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Large text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Icons:
+        Level AA - ✅ Pass 
+    -->
+    <color name="m_3_sys_light_secondary_container">#ffe8def8</color>
+    <color name="m_3_sys_light_on_secondary_container">#ff1d192b</color>
+    <!-- 
+        tertiary-container : on-tertiary-container
+        
+        Regular text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Large text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Icons:
+        Level AA - ✅ Pass 
+    -->
+    <color name="m_3_sys_light_tertiary_container">#ffffd8e4</color>
+    <color name="m_3_sys_light_on_tertiary_container">#ff31111d</color>
+    <!-- 
+        error : on-error
+        
+        Regular text:
+        Level AA - ✅ Pass
+        Level AAA - ❌ Fail
+        
+        Large text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Icons:
+        Level AA - ✅ Pass 
+    -->
+    <color name="m_3_sys_light_error">#ffb3261e</color>
+    <!-- 
+        surface : on-surface
+        
+        Regular text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Large text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Icons:
+        Level AA - ✅ Pass 
+    -->
+    <color name="m_3_sys_light_surface">#fffffbfe</color>
+    <color name="m_3_sys_light_on_surface">#ff1c1b1f</color>
+    <!-- 
+        surface-variant : on-surface-variant
+        
+        Regular text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Large text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Icons:
+        Level AA - ✅ Pass 
+    -->
+    <color name="m_3_sys_light_surface_variant">#ffe7e0ec</color>
+    <color name="m_3_sys_light_on_surface_variant">#ff49454f</color>
+    <color name="m_3_sys_light_outline">#ff79747e</color>
+
+    <!-- 
+        primary : on-primary
+        
+        Regular text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Large text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Icons:
+        Level AA - ✅ Pass 
+    -->
+    <color name="m_3_sys_dark_primary">#ffd0bcff</color>
+    <color name="m_3_sys_dark_on_primary">#ff381e72</color>
+    <!-- 
+        primary-container : on-primary-container
+        
+        Regular text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Large text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Icons:
+        Level AA - ✅ Pass 
+    -->
+    <color name="m_3_sys_dark_primary_container">#ff4f378b</color>
+    <color name="m_3_sys_dark_on_primary_container">#ffeaddff</color>
+    <color name="m_3_sys_dark_on_secondary">#ff332d41</color>
+    <!-- 
+        secondary-container : on-secondary-container
+        
+        Regular text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Large text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Icons:
+        Level AA - ✅ Pass 
+    -->
+    <color name="m_3_sys_dark_secondary_container">#ff4a4458</color>
+    <color name="m_3_sys_dark_on_secondary_container">#ffe8def8</color>
+    <color name="m_3_sys_dark_on_tertiary">#ff492532</color>
+    <!-- 
+        tertiary-container : on-tertiary-container
+        
+        Regular text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Large text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Icons:
+        Level AA - ✅ Pass 
+    -->
+    <color name="m_3_sys_dark_tertiary_container">#ff633b48</color>
+    <color name="m_3_sys_dark_on_tertiary_container">#ffffd8e4</color>
+    <!-- 
+        error : on-error
+        
+        Regular text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Large text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Icons:
+        Level AA - ✅ Pass 
+    -->
+    <color name="m_3_sys_dark_error">#fff2b8b5</color>
+    <color name="m_3_sys_dark_on_error">#ff601410</color>
+    <!-- 
+        surface : on-surface
+        
+        Regular text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Large text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Icons:
+        Level AA - ✅ Pass 
+    -->
+    <color name="m_3_sys_dark_surface">#ff1c1b1f</color>
+    <color name="m_3_sys_dark_on_surface">#ffe6e1e5</color>
+    <!-- 
+        surface-variant : on-surface-variant
+        
+        Regular text:
+        Level AA - ✅ Pass
+        Level AAA - ❌ Fail
+        
+        Large text:
+        Level AA - ✅ Pass
+        Level AAA - ✅ Pass
+        
+        Icons:
+        Level AA - ✅ Pass 
+    -->
+    <color name="m_3_sys_dark_surface_variant">#ff49454f</color>
+    <color name="m_3_sys_dark_on_surface_variant">#ffcac4d0</color>
+    <color name="m_3_sys_dark_outline">#ff938f99</color>
+    <color name="m_3_sys_dark_inverse_surface">#ffe6e1e5</color>
+
+
+    <color name="m_3_ref_primary_primary_99">#fffffbfe</color>
+    <color name="m_3_ref_primary_primary_95">#fff6edff</color>
+    <color name="m_3_ref_primary_primary_80">#ffd0bcff</color>
+    <color name="m_3_ref_primary_primary_70">#ffb69df8</color>
+    <color name="m_3_ref_primary_primary_60">#ff9a82db</color>
+    <color name="m_3_ref_primary_primary_50">#ff7f67be</color>
+    <color name="m_3_ref_primary_primary_30">#ff4f378b</color>
+    <color name="m_3_ref_primary_primary_20">#ff381e72</color>
+    <color name="m_3_ref_primary_primary_10">#ff21005d</color>
+
+    <color name="m_3_ref_secondary_secondary_90">#ffe8def8</color>
+    <color name="m_3_ref_secondary_secondary_80">#ffccc2dc</color>
+    <color name="m_3_ref_secondary_secondary_70">#ffb0a7c0</color>
+    <color name="m_3_ref_secondary_secondary_60">#ff958da5</color>
+    <color name="m_3_ref_secondary_secondary_50">#ff7a7289</color>
+    <color name="m_3_ref_secondary_secondary_40">#ff625b71</color>
+    <color name="m_3_ref_secondary_secondary_30">#ff4a4458</color>
+    <color name="m_3_ref_secondary_secondary_20">#ff332d41</color>
+    <color name="m_3_ref_secondary_secondary_10">#ff1d192b</color>
+
+    <color name="m_3_ref_tertiary_tertiary_99">#fffffbfa</color>
+    <color name="m_3_ref_tertiary_tertiary_95">#ffffecf1</color>
+    <color name="m_3_ref_tertiary_tertiary_90">#ffffd8e4</color>
+    <color name="m_3_ref_tertiary_tertiary_80">#ffefb8c8</color>
+    <color name="m_3_ref_tertiary_tertiary_70">#ffd29dac</color>
+    <color name="m_3_ref_tertiary_tertiary_60">#ffb58392</color>
+    <color name="m_3_ref_tertiary_tertiary_50">#ff986977</color>
+    <color name="m_3_ref_tertiary_tertiary_40">#ff7d5260</color>
+    <color name="m_3_ref_tertiary_tertiary_30">#ff633b48</color>
+    <color name="m_3_ref_tertiary_tertiary_20">#ff492532</color>
+    <color name="m_3_ref_tertiary_tertiary_10">#ff31111d</color>
+
+    <color name="m_3_ref_neutral_neutral_95">#ffffffff</color>
+    <color name="m_3_ref_neutral_neutral_90">#ffe6e1e5</color>
+    <color name="m_3_ref_neutral_neutral_80">#ffc9c5ca</color>
+    <color name="m_3_ref_neutral_neutral_70">#ffaeaaae</color>
+    <color name="m_3_ref_neutral_neutral_60">#ff939094</color>
+    <color name="m_3_ref_neutral_neutral_50">#ff787579</color>
+    <color name="m_3_ref_neutral_neutral_40">#ff605d62</color>
+    <color name="m_3_ref_neutral_neutral_30">#ff484649</color>
+    <color name="m_3_ref_neutral_neutral_20">#ff313033</color>
+
+    <color name="m_3_ref_neutral_variant_neutral_variant_95">#fff5eefa</color>
+    <color name="m_3_ref_neutral_variant_neutral_variant_90">#ffe7e0ec</color>
+    <color name="m_3_ref_neutral_variant_neutral_variant_80">#ffcac4d0</color>
+    <color name="m_3_ref_neutral_variant_neutral_variant_70">#ffaea9b4</color>
+    <color name="m_3_ref_neutral_variant_neutral_variant_60">#ff938f99</color>
+    <color name="m_3_ref_neutral_variant_neutral_variant_50">#ff79747e</color>
+    <color name="m_3_ref_neutral_variant_neutral_variant_40">#ff605d66</color>
+    <color name="m_3_ref_neutral_variant_neutral_variant_30">#ff49454f</color>
+    <color name="m_3_ref_neutral_variant_neutral_variant_20">#ff322f37</color>
+    <color name="m_3_ref_neutral_variant_neutral_variant_10">#ff1d1a22</color>
+
+    <color name="m_3_ref_error_error_99">#fffffbf9</color>
+    <color name="m_3_ref_error_error_95">#fffceeee</color>
+    <color name="m_3_ref_error_error_90">#fff9dedc</color>
+    <color name="m_3_ref_error_error_80">#fff2b8b5</color>
+    <color name="m_3_ref_error_error_70">#ffec928e</color>
+    <color name="m_3_ref_error_error_60">#ffe46962</color>
+    <color name="m_3_ref_error_error_50">#ffdc362e</color>
+    <color name="m_3_ref_error_error_30">#ff8c1d18</color>
+    <color name="m_3_ref_error_error_20">#ff601410</color>
+    <color name="m_3_ref_error_error_10">#ff410e0b</color>
+
+
+    <color name="m_3_read_only_light_surface_1">#fff7f2fa</color>
+    <color name="m_3_read_only_light_surface_2">#fff3edf7</color>
+    <color name="m_3_read_only_light_surface_3">#ffeee8f4</color>
+    <color name="m_3_read_only_light_surface_4">#ffede6f3</color>
+    <color name="m_3_read_only_light_surface_5">#ffeae3f1</color>
+    <color name="m_3_read_only_light_black">#ff000000</color>
+    <color name="m_3_read_only_light_white">#ffffffff</color>
+
+    <color name="m_3_read_only_light_primary_opacity_0_08">#146750a4</color>
+    <color name="m_3_read_only_light_primary_opacity_0_12">#1f6750a4</color>
+    <color name="m_3_read_only_light_primary_opacity_0_16">#296750a4</color>
+
+    <color name="m_3_read_only_light_on_primary_opacity_0_08">#14ffffff</color>
+    <color name="m_3_read_only_light_on_primary_opacity_0_12">#1fffffff</color>
+
+    <color name="m_3_read_only_light_on_primary_container_opacity_0_08">#1421005d</color>
+    <color name="m_3_read_only_light_on_primary_container_opacity_0_12">#1f21005d</color>
+
+    <color name="m_3_read_only_light_on_secondary_container_opacity_0_08">#141d192b</color>
+    <color name="m_3_read_only_light_on_secondary_container_opacity_0_12">#1f1d192b</color>
+    <color name="m_3_read_only_light_on_secondary_container_opacity_0_16">#291d192b</color>
+
+    <color name="m_3_read_only_light_on_tertiary_container_opacity_0_08">#1431111d</color>
+    <color name="m_3_read_only_light_on_tertiary_container_opacity_0_12">#1f31111d</color>
+
+    <color name="m_3_read_only_light_on_surface_variant_opacity_0_08">#1449454f</color>
+    <color name="m_3_read_only_light_on_surface_variant_opacity_0_12">#1f49454f</color>
+    <color name="m_3_read_only_light_on_surface_variant_opacity_0_16">#2949454f</color>
+
+    <color name="m_3_read_only_light_on_surface_opacity_0_12">#1f1c1b1f</color>
+    <color name="m_3_read_only_light_on_surface_opacity_0_16">#291c1b1f</color>
+
+    <color name="m_3_read_only_dark_surface_1">#ff25232a</color>
+    <color name="m_3_read_only_dark_surface_2">#ff2a2831</color>
+    <color name="m_3_read_only_dark_surface_3">#ff302d38</color>
+    <color name="m_3_read_only_dark_surface_4">#ff322e3a</color>
+    <color name="m_3_read_only_dark_surface_5">#ff35323e</color>
+
+    <color name="m_3_read_only_dark_primary_opacity_0_08">#14d0bcff</color>
+    <color name="m_3_read_only_dark_primary_opacity_0_12">#1fd0bcff</color>
+
+    <color name="m_3_read_only_dark_on_primary_container_opacity_0_08">#14eaddff</color>
+    <color name="m_3_read_only_dark_on_primary_container_opacity_0_12">#1feaddff</color>
+
+    <color name="m_3_read_only_dark_on_secondary_container_opacity_0_08">#14e8def8</color>
+    <color name="m_3_read_only_dark_on_secondary_container_opacity_0_12">#1fe8def8</color>
+    <color name="m_3_read_only_dark_on_secondary_container_opacity_0_16">#29e8def8</color>
+
+    <color name="m_3_read_only_dark_on_tertiary_container_opacity_0_08">#14ffd8e4</color>
+    <color name="m_3_read_only_dark_on_tertiary_container_opacity_0_12">#1fffd8e4</color>
+
+
+</resources>

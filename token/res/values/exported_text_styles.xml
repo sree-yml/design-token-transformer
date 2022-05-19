@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="M3Headline6">
+        <item name="android:textSize">18sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="M3DisplayLarge">
+        <item name="android:textSize">57sp</item>
+        <item name="android:letterSpacing">-0.44</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="M3DisplayMedium">
+        <item name="android:textSize">45sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="M3DisplaySmall">
+        <item name="android:textSize">36sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="M3HeadlineLarge">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="M3HeadlineMedium">
+        <item name="android:textSize">28sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="M3HeadlineSmall">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="M3TitleLarge">
+        <item name="android:textSize">22sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="M3TitleMedium">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0.63</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="M3TitleSmall">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0.71</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="M3LabelLarge">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0.71</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="M3LabelMedium">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">4.17</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="M3LabelSmall">
+        <item name="android:textSize">11sp</item>
+        <item name="android:letterSpacing">4.55</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="M3BodyLarge">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">3.13</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="M3BodyMedium">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">1.79</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="M3BodySmall">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">3.33</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>
+  
+
