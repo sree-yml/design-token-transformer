@@ -1,0 +1,32 @@
+{
+  "color": {
+    "light": {
+      "primary": {
+        "value": "#59a4d0ff",
+        "type": "color"
+      },
+      "surface": {
+        "value": "#ffffffff",
+        "type": "color"
+      },
+      "onsurface": {
+        "value": "#000000ff",
+        "type": "color"
+      }
+    },
+    "dark": {
+      "primary": {
+        "value": "#778994ff",
+        "type": "color"
+      },
+      "surface": {
+        "value": "#000000ff",
+        "type": "color"
+      },
+      "onsurface": {
+        "value": "#ffffffff",
+        "type": "color"
+      }
+    }
+  }
+}
